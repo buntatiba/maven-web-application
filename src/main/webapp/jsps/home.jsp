@@ -14,6 +14,7 @@
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
                                       DevOps is indispensable for IT project
+               The Bunta family will be rich from DevOps
 	Class32 will start on April 15, 2023. </h1>
 <hr>
 <br>
